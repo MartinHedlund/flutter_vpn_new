@@ -84,7 +84,7 @@ class _MyAppState extends State<MyApp> {
                     Icons.home_outlined,
                   ),
                   activeIcon: Icon(Icons.home),
-                  label: 'Домой+'),
+                  label: 'Домой'),
               BottomNavigationBarItem(
                   icon: Icon(Icons.person_outline),
                   label: 'Профиль',
