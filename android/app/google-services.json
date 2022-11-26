@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "294432244859",
+    "project_id": "flutter-test-ed42c",
+    "storage_bucket": "flutter-test-ed42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294432244859:android:8211210f39851b1b0e8ede",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294432244859-3hu7ujat081cn0r54pbhdr3rj13ipfuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFByUCxX3SkAKrXW2IoJmsMrAfFsSSJoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294432244859-3hu7ujat081cn0r54pbhdr3rj13ipfuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294432244859-e4bqf2tucne3q3rmgodnkamm6ndjfn35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterVpn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
